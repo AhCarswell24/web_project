@@ -1,0 +1,55 @@
+h1{
+	color:#CC0033;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+
+body{
+	background-color: #FFCC99;
+	font-family: sans-serif;
+	margin: 0;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+	top:0;
+	background-color: #CC9966
+
+}
+
+li{
+	float: left;
+}
+
+li a{
+	float: left;
+	text-align: center;
+	padding: 20px;
+	color: black;
+	font-size: 30px;
+
+}
+
+li a:hover{
+	color:#CC0033;
+	background-color:#FFCC66;
+}
+
+img.social:hover{
+	opacity:.75;
+}
+div.section{
+	display:block;
+	background-color: #CCCCCC;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 3.5px;
+	border-color: #CC0033;
+	border-style: solid;
+}
